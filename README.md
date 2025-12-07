@@ -1,8 +1,8 @@
-📊 Customer Churn Analysis & Prediction
+# 📊 Customer Churn Analysis & Prediction
 
 This project analyzes customer behavior to understand the drivers of churn and builds machine learning models to predict which customers are most at risk. The goal is to empower businesses to take proactive retention actions, reduce revenue loss, and improve customer satisfaction.
 
-🗂️ Project Overview
+## 🗂️ Project Overview
 
 Performed exploratory data analysis (EDA) to identify key variables correlated with churn.
 
@@ -14,7 +14,7 @@ Visualized insights using Python libraries to understand customer demographics, 
 
 Interpreted feature importance to highlight the most influential churn drivers.
 
-🧱 Tech Stack
+## 🧱 Tech Stack
 
 Languages & Libraries:
 
@@ -28,13 +28,13 @@ Random Forest
 
 XGBoost (optional if you added later)
 
-Tools:
+## Tools:
 
 Jupyter Notebook
 
 GitHub for version control
 
-🔍 Key Insights from EDA
+## 🔍 Key Insights from EDA
 
 Some common churn patterns uncovered (your analysis likely includes these):
 
@@ -46,7 +46,7 @@ Higher monthly charges correlate with increased churn likelihood.
 
 Longer-tenured customers are less likely to churn.
 
-🤖 Machine Learning Results
+## 🤖 Machine Learning Results
 
 A quick performance summary (replace with your actual numbers if needed):
 
@@ -56,4 +56,4 @@ Random Forest: AUC ≈ 0.86
 
 XGBoost: AUC ≈ 0.88
 
-The final selected model balances interpretability and predictive performance.
+### The final selected model balances interpretability and predictive performance.
